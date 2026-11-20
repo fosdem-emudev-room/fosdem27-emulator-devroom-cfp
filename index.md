@@ -77,7 +77,7 @@ track.
 
 ### Important Dates
 
-- **November 23rd: submission deadline** (this one is firm, as FOSDEM needs our full schedule by early December)
+- **November ~~23rd~~ 26th: submission deadline** (FOSDEM needs our full schedule by early December)
 - December 1st: selected speakers notified
 - December 7th: schedule published
 - January 30th & 31st: FOSDEM!
